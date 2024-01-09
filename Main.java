@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Scanner;
 
-class Calc {
+class Main {
 
     public static void main (String [] args) throws Exception {
         Scanner scanner = new Scanner (System.in);
